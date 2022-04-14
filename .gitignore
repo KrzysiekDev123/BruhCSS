@@ -1,0 +1,7 @@
+TODO.md
+tests
+node_modules
+jest
+tsconfig.json
+dist
+.npmignore
