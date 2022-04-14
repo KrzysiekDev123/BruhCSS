@@ -1,6 +1,5 @@
-<h1><span style="color: yellow">Bruh</span><span style="color: aqua">CSS</span></h1>
+# BruhCSS
 
-## A simple language transpiled to CSS, like Sass or Less.
 <br>
 
 ### **Current features:**
