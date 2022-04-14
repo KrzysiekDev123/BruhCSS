@@ -1,6 +1,6 @@
 {
     "name": "bruhcss",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A simple language transpiled to CSS",
     "dependencies": {
         "chalk": "^4.1.0",

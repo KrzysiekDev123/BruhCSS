@@ -1,7 +1,7 @@
-TODO.md
-tests
+dist
 node_modules
 jest
+tests
+TODO.md
 tsconfig.json
-dist
 .npmignore
